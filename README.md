@@ -20,9 +20,9 @@ I'm passionate about **Web Development** and I love building projects that solve
 ---
 
 ## 📂 Featured Projects  
-- 🔹 [Project 1](#) – *Short description*  
-- 🔹 [Project 2](#) – *Short description*  
-- 🔹 [Project 3](#) – *Short description*
+- 🔹 [Project 1](#) –   
+- 🔹 [Project 2](#) –   
+- 🔹 [Project 3](#) – 
 
 ---
 
