@@ -20,7 +20,7 @@ I'm passionate about **Web Development** and I love building projects that solve
 ---
 
 ## 📂 Featured Projects  
-- 🔹 [Project 1](https://my-heart-opens.lovable.app)
+- 🔹 [Proposal website](https://my-heart-opens.lovable.app)
 - 🔹 [Project 2](#) –   
 - 🔹 [Project 3](#) – 
 
