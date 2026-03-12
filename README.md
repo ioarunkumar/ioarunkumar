@@ -20,8 +20,8 @@ I'm passionate about **Web Development** and I love building projects that solve
 ---
 
 ## 📂 Featured Projects  
-- 🔹 [Proposal website](https://my-heart-opens.lovable.app)
-- 🔹 [Project 2](#) –   
+- 🔹 [Portfolio Website](https://codewitharun.lovable.app)
+- 🔹 [Proposal website](https://my-heart-opens.lovable.app)  
 - 🔹 [Project 3](#) – 
 
 ---
