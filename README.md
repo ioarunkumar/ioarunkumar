@@ -20,7 +20,7 @@ I'm passionate about **Web Development** and I love building projects that solve
 ---
 
 ## 📂 Featured Projects  
-- 🔹 [Portfolio Website](ioarunkumar.in)
+- 🔹 [Portfolio Website](www.ioarunkumar.in)
 - 🔹 [Proposal website](https://my-heart-opens.lovable.app)  
 - 🔹 [Project 3](#) – 
 
