@@ -3,6 +3,10 @@
 Welcome to my GitHub profile! 🚀  
 I'm passionate about **Web Development** and I love building projects that solve real-world problems.
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from my GitHub activity" />
+</p>
+
 ---
 
 ## 🔧 Technologies & Tools  
